@@ -8,8 +8,15 @@
 
 #import <Cocoa/Cocoa.h>
 
+
+
+
 @interface MyAppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
+
+
+
+
 
 @end
